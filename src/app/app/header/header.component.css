@@ -38,7 +38,7 @@ header ul li a{
 }
 header ul li a:hover::after,header ul li a.is-active::after{
     content: '';
-    background: #f9b205;
+    background:  rgba(238, 204, 9, 0.849);
     height: 9px;
     position: absolute;
     left: 1px;
